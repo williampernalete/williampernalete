@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William P.</h1>
-<h3 align="center">A passionate Backend & frontend developer from Venezuela</h3>
+<h3 align="center">A passionate backend & frontend developer from Venezuela</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
